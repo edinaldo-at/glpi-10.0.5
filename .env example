@@ -1,0 +1,9 @@
+MYSQL_HOST=""
+MYSQL_PORT=3306
+MYSQL_DATABASE=""
+MYSQL_USER=""
+MYSQL_PASSWORD=""
+TZ="America/Sao_Paulo"
+GLPI_VAR_DIR="/var/lib/glpi"
+GLPI_CONFIG_DIR="/tmp/glpi/config"
+GLPI_LOG_DIR="/var/log/glpi"

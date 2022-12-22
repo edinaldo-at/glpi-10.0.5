@@ -1,0 +1,27 @@
+version: '3.8'
+services:
+  bemtickets:
+    build: .
+    container_name: bemtickets
+    restart: always
+    env_file:
+      - '.env'
+    ports:
+      - '80:80'
+    volumes:
+      - ./html:/var/www/html
+      - ./files:/var/lib/glpi
+      - ./log:/var/log/glpi
+    networks:
+    - glpi_network
+    
+networks:
+  glpi_network:
+
+volumes:
+  html:
+    driver: local
+  files:
+    driver: local
+  log:
+    driver: local
