@@ -38,19 +38,19 @@ It is distributed under the GNU GENERAL PUBLIC LICENSE Version 3 - please consul
 
 **Tickets**
 
-![Tickets Timeline](pics/screenshots/ticket.png)
+![Tickets Timeline](html/pics/screenshots/ticket.png)
 
 **DCIM**
 
-![DCIM drag&drop](pics/screenshots/dcim_racks_draganddrop.gif)
+![DCIM drag&drop](html/pics/screenshots/dcim_racks_draganddrop.gif)
 
 **Assets**
 
-![asset view](pics/screenshots/asset.png)
+![asset view](html/pics/screenshots/asset.png)
 
 **Dashboards**
 
-![Asset dashboard](pics/screenshots/dashboard.png)
+![Asset dashboard](html/pics/screenshots/dashboard.png)
 
 ## Prerequisites
 
